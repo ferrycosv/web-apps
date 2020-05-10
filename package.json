@@ -1,6 +1,21 @@
 {
   "name": "web-apps",
   "version": "1.0.1",
+<<<<<<< Updated upstream
   "author": "@HackYourFutureBelgium",
   "license": "MIT"
+=======
+  "author": "YOUR NAME HERE",
+  "license": "MIT",
+  "scripts": {
+    "week-1": "node week-1/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "marked": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+>>>>>>> Stashed changes
 }
